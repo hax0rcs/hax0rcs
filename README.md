@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="width: 55px; height: 55px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 55px; height: 55px" />
 </p>
-<h1 align="center"></h1>
-<h1 align="center">About Me</h1>                                                                                                                          
+
+<h3 align="center">About Me</h3>                                                                                                                          
                                                                                                                             
 
